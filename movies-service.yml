@@ -9,7 +9,7 @@ spring:
         url: http://localhost:9020
         instance:
           service-base-url: http://localhost:9060
-          name: Customer API Service
+          name: Movies API Service
 server:
   servlet:
     context-path: /store/api/v1
